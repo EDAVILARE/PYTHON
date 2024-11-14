@@ -13,7 +13,7 @@ print(type("Hola mundo"));
 print (1,000,000.00) #no usar comas sale otro valor, imprime 100.0
 print (1000000.00);
 
-
+print ("Hola amigos");
 
 
 
